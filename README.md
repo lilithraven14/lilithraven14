@@ -58,17 +58,7 @@ Atuar nas áreas de **Tecnologia da Informação, Administração ou Marketing**
 
 ---
 
-## 📂 Portfólio & Projetos em Destaque
-> *Espaço preparado para receber futuros projetos do curso de Engenharia e trabalhos práticos.*
-
-- 🛠️ **[Muir]**: *(Em breve)* Breve descrição do projeto e tecnologias utilizadas.
-- 🛠️ **[Nome do Projeto 2]**: *(Em breve)* Breve descrição do projeto e tecnologias utilizadas.
-
----
-
 ## 🌐 Conecte-se Comigo
 
 [![LinkedIn](www.linkedin.com/in/lilith-raven)
-[![YouTube](https://www.youtube.com/@livesdaliven)
-[![Instagram](https://www.instagram.com/livenblood/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![Redes](https://linktr.ee/Livenblood)
